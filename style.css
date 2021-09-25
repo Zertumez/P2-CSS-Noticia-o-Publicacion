@@ -47,7 +47,9 @@ body {
 }
 
 .titulo {
-    color: red;
+    color: rgb(175, 10, 10);
+    background-color: rgb(119, 223, 197);
+    margin-right: 48%;
 }
 
 .subtitulo {
